@@ -7,6 +7,7 @@ gem 'rails', '~> 6.1.3', '>= 6.1.3.2'
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
+gem 'wdm', '~> 0.1.1'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
